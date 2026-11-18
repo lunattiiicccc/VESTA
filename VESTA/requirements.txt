@@ -1,0 +1,5 @@
+streamlit
+sqlalchemy
+pillow
+requests
+pytest
